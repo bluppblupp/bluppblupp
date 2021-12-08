@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bluppblupp
+- 👋 Hi, I’m Niklas / @bluppblupp
 - 👀 I’m interested in learning new tech and I love music and food!
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently improving my skills in React.
 - 📫 Reach me @itsjustniklas on Twitter
 
 <!---
