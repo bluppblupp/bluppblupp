@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niklas / @bluppblupp
 - 👀 I’m interested in learning new tech and I love music and food!
-- 🌱 I’m currently improving my skills in React.
+- 🌱 I’m currently working with Android Development in Kotlin.
 - 📫 Reach me @itsjustniklas on Twitter
 
 <!---
