@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niklas / @bluppblupp
 - 👀 I’m interested in learning new tech and I love music and food!
-- 🌱 I’m currently working on improving my skills as a Fullstack Developer in JS.
+- 🌱 I’m currently working as a DevOps Engineer at Telenor, and improving my skills as a Fullstack Developer in JS in my spare time.
 - 📫 Reach me @itsjustniklas on Twitter
 
 <!---
